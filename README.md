@@ -19,3 +19,7 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 #### Will redirect to:
 
 https://www.freecodecamp.org/forum/
+
+## Technologies Used:
+
+Javascript, Node, Express, MongoDB, Mongoose, HTML, CSS
